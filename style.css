@@ -1,0 +1,64 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+.head1{
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+    
+   
+  }
+  
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .font1{
+    font-size: 40px;
+  }
+.button1{
+   display: inline-block;
+
+  border-radius: 10px;
+    background-color: orange;
+    width: 300px;
+}
+a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.head2{
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.box{
+    border: solid 5px rgb(131, 124, 124);
+    padding: 2% ;
+    margin-left: 7.7%;
+}
+.highlight{
+    border:solid 10px orchid;
+    background-color: rgb(158, 124, 142);
+    color: rgb(48, 1, 36);
+}
+.form{
+    text-align: center;
+    margin-top: 2%;
+}
+.align{
+    position: relative;
+    margin-left: 42%;
+    color: whitesmoke;
+    font-size: 40px;
+    padding-left: 40px;
+}
