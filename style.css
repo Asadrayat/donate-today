@@ -17,6 +17,7 @@ body{
   }
   .font1{
     font-size: 40px;
+    text-align: center;
   }
 .button1{
    display: inline-block;
@@ -61,4 +62,95 @@ p{
     color: whitesmoke;
     font-size: 40px;
     padding-left: 40px;
+}
+#regular{
+    text-align: center;
+}
+.flex2{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+}
+.lay1{
+    text-align:center;
+    margin: 3%;
+    padding: 1%;
+    background-color: antiquewhite;
+}
+.lay2{
+    text-align:center;
+    margin: 3%;
+    padding: 1%;
+    background-color: rgb(144, 179, 128);
+}
+.lay3{
+    text-align:center;
+    margin: 3%;
+    padding: 1%;
+    background-color: antiquewhite;
+}
+.howto{
+    font-size: 40px;
+    width: 350px;
+    background-color: chocolate;
+    padding: 1%;
+    display: inline;
+}
+.flex3{
+    display: flex;
+   margin-right: 10%;
+   margin-left: 10%;
+   
+}
+.data{
+    padding: 2%;
+    width: 30%;
+
+}
+.font2{
+    font-size: 40px;
+}
+.img1{
+    padding: 2%;
+   
+
+}
+.p1{
+    text-align: justify;
+}
+.updt{
+    text-align: center;
+}
+.button3{
+    display: flex;
+   
+}
+#email{
+    background-color: rgb(182, 164, 164);
+    width: 300px;
+    border-radius: 2px;
+    padding: 1%;
+    margin-left: 40%;
+}
+#subscribe{
+    background-color: rgb(216, 6, 6);
+    width: auto;
+    border-radius: 2px;
+    padding: 1%; 
+}
+.boxx{
+    background-color: rgb(255, 255, 0);
+    margin-right: 25%;
+    margin-left: 18%;
+    padding-top: 70px;
+    padding-bottom:70px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(10, 10, 29);
+    color: rgb(226, 13, 13);
+    height: auto;
+}
+.foot{
+   text-decoration-style: double;
 }
